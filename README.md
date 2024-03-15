@@ -53,9 +53,9 @@ Next.js é um framework React.js popular para criar aplicativos web full-stack. 
 ## QA || Diagrama de caso de uso || (Teste Unitarios)
 
 - [Aprenda a testar rotas de api com Jest no Node js 🌐](https://www.youtube.com/watch?v=HzjHDsoHwB4)
-- [Tutorial de Caso de Uso UML](https://youtu.be/ab6eDdwS3rA)
-- [Análise de Requisitos - 1 ](https://www.youtube.com/watch?v=rVbJ7ykuLig)
-- [CURSO DE ANÁLISE DE REQUISITOS DE SOFTWARE](https://www.youtube.com/playlist?list=PLF9vK2NfbRJtqen7xlD7aWtu3Bwik-k6G)
+- [Tutorial de Caso de Uso UML 🌐](https://youtu.be/ab6eDdwS3rA)
+- [Análise de Requisitos - Intro 🌐](https://www.youtube.com/watch?v=rVbJ7ykuLig)
+- [CURSO DE ANÁLISE DE REQUISITOS DE SOFTWARE 🌐](https://www.youtube.com/playlist?list=PLF9vK2NfbRJtqen7xlD7aWtu3Bwik-k6G)
 
 ## Banco de Dados e Diagramas (DBA) 🗃️📊
 
