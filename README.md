@@ -50,6 +50,13 @@ Next.js é um framework React.js popular para criar aplicativos web full-stack. 
 - [API Routes - DOC OFICIAL](https://nextjs.org/docs/pages/building-your-application/routing/api-routes)🌐
 - [API Routes Examples - DOC OFICIAL](https://nextjs.org/learn-pages-router/basics/api-routes/creating-api-routes)🌐
 
+## QA || Diagrama de caso de uso || (Teste Unitarios)
+
+- [Aprenda a testar rotas de api com Jest no Node js 🌐](https://www.youtube.com/watch?v=HzjHDsoHwB4)
+- [Tutorial de Caso de Uso UML](https://youtu.be/ab6eDdwS3rA)
+- [Análise de Requisitos - 1 ](https://www.youtube.com/watch?v=rVbJ7ykuLig)
+- [CURSO DE ANÁLISE DE REQUISITOS DE SOFTWARE](https://www.youtube.com/playlist?list=PLF9vK2NfbRJtqen7xlD7aWtu3Bwik-k6G)
+
 ## Banco de Dados e Diagramas (DBA) 🗃️📊
 
 Um Administrador de Banco de Dados (DBA) é responsável pela gestão, segurança e otimização de bancos de dados. Aqui estão alguns recursos para aprender sobre banco de dados e diagramas:
@@ -57,7 +64,25 @@ Um Administrador de Banco de Dados (DBA) é responsável pela gestão, seguranç
 - [Diagrama Entidade Relacionamento - modelo de banco de dados](https://www.youtube.com/watch?v=XCkd27GtZoM) 📖
 - [Como fazer MER do Banco de Dados - Passo a Passo](https://youtu.be/V3GNA-LWCnI) 📖
 
-\
-\
-\
-👩‍💻Equipe LADSOFT👨‍💻
+## Design
+
+- [DO ZERO AO PRIMEIRO PROJETO NO FIGMA 2024 🔑](https://www.youtube.com/watch?v=L7wLoft_BVc)
+- [Prototipação de Aplicativo no Figma🔑](https://www.youtube.com/playlist?list=PLwgL9IEA0PxWS1Ub3aqp9r1RUcfysxLwk)
+
+##### Coffee App Design in Figma - Prototipagem
+
+![img](/images/prot%20figma.png)
+https://www.youtube.com/watch?v=eQqPGlQXDrQ
+
+- [Coffee App Design in Figma | Coffee Shop UI Design | Figma Tutorial](https://www.youtube.com/watch?v=eQqPGlQXDrQ)
+
+##### Food Ordering Mobile App Design in Figma - Prototipagem
+
+![img](/images/prot%20figma%202.png)
+https://www.youtube.com/watch?v=Yf00MKUfcIY
+
+- [Food Ordering Mobile App Design in Figma | UI/UX (Wireframe, Prototype) Figma tutorial](https://www.youtube.com/watch?v=Yf00MKUfcIY)
+  \
+  \
+  \
+  👩‍💻Equipe LADSOFT👨‍💻
