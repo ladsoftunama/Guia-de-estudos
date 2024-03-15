@@ -1,3 +1,5 @@
+![img](https://github.com/ladsoftunama/ladsoftunama/raw/main/imagens/image_readme.png)
+
 # Guia de Estudos para Desenvolvimento Web e Banco de Dados 💻📊
 
 Este guia foi projetado para ajudar você a aprender sobre diferentes tecnologias e ferramentas usadas no desenvolvimento web e banco de dados. Cada seção inclui recursos úteis, tutoriais e projetos para você começar a aprender e aprimorar suas habilidades.
